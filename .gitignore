@@ -7,3 +7,4 @@ steam_reviews/
 steam_content/
 .env
 package-lock.json
+newrelic.js
